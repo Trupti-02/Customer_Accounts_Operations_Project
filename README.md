@@ -34,19 +34,22 @@ The pipeline generates the following derived fields:
 
 ## Project Structure
 
-.
-├── data_analysis.ipynb          # Main analysis notebook
-├── documentation/
-│   ├── Data_Validation_Checklist.docx
-│   └── Process_Improvement_Notes.docx
-├── data/
-│   ├── customers.csv
-│   ├── invoices.csv
-│   ├── payments.csv
-│   ├── purchase_orders.csv
-│   └── customer_interactions.csv
-└── output/
-    └── ar_master_powerbi.csv    # Final output for Power BI
+
+    
+    ├── data_analysis.ipynb          # Main analysis notebook
+    ├── documentation/
+    │   ├── Data_Validation_Checklist.docx
+    │   └── Process_Improvement_Notes.docx
+    ├── data/
+    │   ├── customers.csv
+    │   ├── invoices.csv
+    │   ├── payments.csv
+    │   ├── purchase_orders.csv
+    │   └── customer_interactions.csv
+    └── output/
+        └── ar_master_powerbi.csv    # Final output for Power BI
+
+    
 
 ## Requirements
 
